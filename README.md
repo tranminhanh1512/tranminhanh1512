@@ -8,7 +8,7 @@ My name is Anh Minh Tran, I'm currently pursuing Master of Science in Data Scien
 Philadelphia, PA  
 **Master of Science in Data Science**   
 *Expected Graduation: June 2026*  
-GPA: 3.93   
+GPA: 3.93
 - Relevant coursework: Machine Learning/ Deep Learning/ NLP with Deep Learning/ Recommender System  
 
 **Simmons University** 
@@ -29,7 +29,7 @@ Dual Minor in Computer Science and Business
 - Designed and implemented experiments to evaluate Precise Language Models (PLMs) on prediction tasks
 
 **Marketing Data Analyst Intern @ 1C Vietnam**  
-*June – August 2023**
+*June – August 2023*
 
 - Performed data cleaning, extraction, transformation, and analysis on collected data from 1,000+ potential customers using MS
 Excel to build comprehensive marketing databases
@@ -56,13 +56,13 @@ to deliver exceptional customer service
 - Performed text preprocessing with NLTK and conducted sentiment and emotion analysis on tweet data
 
 **Learning Assistant @ Simmons University**  
-Jan – May 2024*  
+*Jan – May 2024*  
 - Facilitate student learning on statistical concepts, especially on regression model, and help debug codes on R-Studio in a 25-student class size
 - Mentor and guide students through academic challenges, fostering a positive learning atmosphere
 - Hold office hours to review exams and clarify homework assignments for students
 
-**Peer Tutor @ Simmons University**   	
-*Jan– May 2024*
+**Peer Tutor @ Simmons University**  
+*Jan – May 2024*
 - Enhance students’ understandings of course materials by teaching complex concepts and providing clarification regarding homework problems and classwork
 - Review curriculum ahead and anticipate key trouble spots proactively through tailoring sessions
 
