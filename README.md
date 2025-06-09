@@ -29,7 +29,7 @@ Dual Minor in Computer Science and Business
 - Designed and implemented experiments to evaluate Precise Language Models (PLMs) on prediction tasks
 
 **Marketing Data Analyst Intern @ 1C Vietnam**  
-*June – August 2023*
+*June – August 2023**
 
 - Performed data cleaning, extraction, transformation, and analysis on collected data from 1,000+ potential customers using MS
 Excel to build comprehensive marketing databases
