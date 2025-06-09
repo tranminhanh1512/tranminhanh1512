@@ -71,7 +71,7 @@ Jan – May 2024*
 - **Programming Languages**: Python / R / SQL / Java / C++ / Scala / JavaScript
 - **Frameworks & Libraries**: pandas / Numpy / scikit-learn / TensorFlow / PyTorch / PySpark / Streamlit / matplotlib / seaborn /
 LangChain / HuggingFace / Streamlit / Keras
-- **Tools**: MySQL / Tableau/ MongoDB / Git / Dataproc / JIRA / Confluence / Slack / FastAPI / RestAPI
+- **Tools**: MySQL / Tableau / MongoDB / Git / Dataproc / JIRA / Confluence / Slack / FastAPI / RestAPI
 
 
 
