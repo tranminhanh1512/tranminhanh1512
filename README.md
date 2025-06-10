@@ -23,7 +23,7 @@ Dual Minor in Computer Science and Business
 ## :office: Experience
 
 **AI/ML Research Assistant @ CODED Lab, Drexel University**   
-*June 2025 – Present*   
+*April 2025 – Present*   
 
 - Collaborate with Professor Jake Williams to construct a large-scale dataset targeting 10 billion tokens for language model training
 - Designed and implemented experiments to evaluate Precise Language Models (PLMs) on prediction tasks
