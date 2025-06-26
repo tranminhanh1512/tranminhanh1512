@@ -24,10 +24,10 @@ Dual Minor in Computer Science and Business
 
 **AI/ML Research Assistant @ CODED Lab, Drexel University**   
 *April 2025 – Present*   
-
-- Collaborate with Professor Jake Williams to construct a large-scale dataset targeting 10 billion tokens for language model training
-- Designed and implemented experiments to evaluate Precise Language Models (PLMs) on prediction tasks
-
+- Collaborate with Professor Jake Williams to construct a large-scale dataset targeting 10 billion tokens for email chatbot training
+- Design and implement experiments to evaluate Precise Language Models (PLMs) on prediction tasks and apply Self-play Fine-tuning method (SPIN) to fine-tune low-resource model
+- Train a transformer-based agentic AI on a hateful Discord dataset to recognize behavioral patterns across multi-turn conversations and intelligently escalate or de-escalate responses based on context.
+  
 **Marketing Data Analyst Intern @ 1C Vietnam**  
 *June – August 2023*
 
@@ -48,6 +48,11 @@ investments, insurance, and credit cards
 to deliver exceptional customer service
 
 ## :school: Other Relevant Experience
+**Course Assistant - DSCI 632: Applied Cloud Computing @ Drexel University**  
+*June 2025 - Present*
+- Assist in course delivery by grading assignments, labs, and projects on Hadoop, Spark, and PySpark, ensuring timely and constructive feedback
+- Hold weekly office hours to support students in understanding distributed systems, big data processing, and cloud infrastructure concepts
+- Collaborat with Professor Milad Toutounchian to reinforce key concepts in HDFS, RDDs, and parallel computing
 
 **Student Consultant – Data Analyst @ Open Avenues Foundation**     
 *March – May 2025*   
