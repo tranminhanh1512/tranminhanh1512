@@ -8,7 +8,7 @@ My name is Anh Minh Tran, I'm currently pursuing Master of Science in Data Scien
 Philadelphia, PA  
 **Master of Science in Data Science**   
 *Expected Graduation: June 2026*  
-GPA: 3.93
+GPA: 3.90
 - Relevant coursework: Machine Learning/ Deep Learning/ NLP with Deep Learning/ Recommender System  
 
 **Simmons University** 
@@ -26,7 +26,7 @@ Dual Minor in Computer Science and Business
 *April 2025 – Present*   
 - Collaborate with Professor Jake Williams to construct a large-scale dataset targeting 10 billion tokens for email chatbot training
 - Design and implement experiments to evaluate Precise Language Models (PLMs) on prediction tasks and apply Self-play Fine-tuning method (SPIN) to fine-tune low-resource model
-- Train a transformer-based agentic AI on a hateful Discord dataset to recognize behavioral patterns across multi-turn conversations and intelligently escalate or de-escalate responses based on context.
+- Train a transformer-based agentic AI on a hateful Discord dataset to recognize behavioral patterns across multi-turn conversations and intelligently escalate or de-escalate responses based on context
   
 **Marketing Data Analyst Intern @ 1C Vietnam**  
 *June – August 2023*
@@ -37,7 +37,7 @@ Excel to build comprehensive marketing databases
 marketing channels using MS Excel, Google Analytics, and Meta Ads to optimize campaign targeting and messaging strategy
 - Generated data insights on 500+ attendees from 2 events held by 1C Vietnam via MS Excel and Google Forms to identify
 customer preferences and pain points and develop data-driven marketing strategies
-- Integrated databases with 1C’s ERP system to allow seamless transfers of cleaned, analyzed data between the Marketing and Sales teams, and facilitate consistent data hygiene across departments!
+- Integrated databases with 1C’s ERP system to allow seamless transfers of cleaned, analyzed data between the Marketing and Sales teams, and facilitate consistent data hygiene across departments
 
 **Sales Intern @ National Citizen Bank**  
  *June – August 2022*
@@ -52,7 +52,7 @@ to deliver exceptional customer service
 *June 2025 - Present*
 - Assist in course delivery by grading assignments, labs, and projects on Hadoop, Spark, and PySpark, ensuring timely and constructive feedback
 - Hold weekly office hours to support students in understanding distributed systems, big data processing, and cloud infrastructure concepts
-- Collaborat with Professor Milad Toutounchian to reinforce key concepts in HDFS, RDDs, and parallel computing
+- Collaborate with Professor Milad Toutounchian to reinforce key concepts in HDFS, RDDs, and parallel computing
 
 **Student Consultant – Data Analyst @ Open Avenues Foundation**     
 *March – May 2025*   
@@ -73,10 +73,11 @@ to deliver exceptional customer service
 
 ## 🛠 Skills
 
-- **Programming Languages**: Python / R / SQL / Java / C++ / Scala / JavaScript
-- **Frameworks & Libraries**: pandas / Numpy / scikit-learn / TensorFlow / PyTorch / PySpark / Streamlit / matplotlib / seaborn /
-LangChain / HuggingFace / Streamlit / Keras
-- **Tools**: MySQL / Tableau / MongoDB / Git / Dataproc / JIRA / Confluence / Slack / FastAPI / RestAPI
+- **Programming Languages**: Python, R, SQL,  Java,  C++, Scala, JavaScript 
+- **Frameworks & Libraries**: pandas, Numpy,  scikit-learn, TensorFlow, PyTorch, PySpark, Streamlit, matplotlib, seaborn, LangChain, HuggingFace, Keras
+- **Software & Infrastructure**: MySQL, Tableau, MongoDB, Git, Github Action, Dataproc, FastAPI, RestAPI, DVC, Docker, MLflow, PostgreSQL, CI/CD , Airflow, AWS, MLflow.
+
+
 
 
 
