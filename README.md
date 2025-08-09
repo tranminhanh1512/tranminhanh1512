@@ -21,6 +21,18 @@ Dual Minor in Computer Science and Business
 - Relevant Coursework: Data Mining, Data Structures, Algorithms, Software Engineering, Structure and Programming Language, Database Management System, Data Interoperability, Web-Centric Programming and Web Technologies  
 
 ## :office: Experience
+**Incoming Marketing Data Mining and Reporitng Analytics Co-op @ College Ave Student Loans LLC**  
+*September 2025 – March 2026*  
+- Support data operations to enhance prospecting strategies and improve marketing analysis and predictive modeling
+- Monitor and evaluate predictive model performance; assist in auditing data strategies for accuracy and compliance
+- Design, test, and implement tools that streamline marketing workflows and support analytical decision-making
+- Collaborate with cross-functional teams to query, analyze, and interpret data, delivering actionable insights 
+
+**Machine Learning Research Assistant @ Simmons University**  
+*July 2025 – Present*  
+- Develop and implement a lightweight sEMG-based hand gesture recognition system using a 4-stream deep learning architecture
+- Apply Online Boosting Adaptive Learning method (OBAL) for multi-stream classification with time-varying features
+- Integrate signal processing methods, including dynamic time warping (DTW) and temporal feature enhancement, to improve classification robustness
 
 **AI/ML Research Assistant @ CODED Lab, Drexel University**   
 *April 2025 – Present*   
