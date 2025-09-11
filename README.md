@@ -29,7 +29,7 @@ Dual Minor in Computer Science and Business
 - Collaborate with cross-functional teams to query, analyze, and interpret data, delivering actionable insights 
 
 **Machine Learning Research Assistant @ Simmons University**  
-*July 2025 – Present*  
+*July – September 2025*  
 - Develop and implement a lightweight sEMG-based hand gesture recognition system using a 4-stream deep learning architecture
 - Apply Online Boosting Adaptive Learning method (OBAL) for multi-stream classification with time-varying features
 - Integrate signal processing methods, including dynamic time warping (DTW) and temporal feature enhancement, to improve classification robustness
@@ -61,7 +61,7 @@ to deliver exceptional customer service
 
 ## :school: Other Relevant Experience
 **Course Assistant - DSCI 632: Applied Cloud Computing @ Drexel University**  
-*June 2025 - Present*
+*June - September 2025*
 - Assist in course delivery by grading assignments, labs, and projects on Hadoop, Spark, and PySpark, ensuring timely and constructive feedback
 - Hold weekly office hours to support students in understanding distributed systems, big data processing, and cloud infrastructure concepts
 - Collaborate with Professor Milad Toutounchian to reinforce key concepts in HDFS, RDDs, and parallel computing
