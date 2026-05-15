@@ -25,16 +25,16 @@ Dual Minor in Computer Science and Business
 **AI/ML Research Assistant @ CODED Lab, Drexel University**   
 *April 2025 – Present*   
 - Achieve ~10–15% performance gains over baseline by designing and executing 3+ controlled experiments to evaluate Precise Language Models on downstream prediction tasks and applying Self-Play Fine-Tuning to improve a low-resource model
-- Train a transformer-based agentic AI on 100K+ Reddit conversations collected to enable recognition of hateful behavioral patterns across multi-turn threads and adaptive response escalation or de-escalation
+- Develop a transformer-based agentic AI on 100K+ Reddit conversations collected to enable recognition of hateful behavioral patterns across multi-turn threads and adaptive response escalation or de-escalation
 - Construct a 10B-token dataset with Professor Jake Williams to enable scalable training of an email conversational chatbot by sourcing large-scale text data and applying preprocessing pipelines to improve model performance and response quality
 
 **Marketing Data Mining and Reporitng Analytics Co-op @ College Ave Student Loans LLC**  
 *September 2025 – March 2026*  
-- Increased net conversion rate by ~16%, driving ~$8.2M in volume, by refining direct mail list selection and improving ITA and Prescreen targeting through validating and analyzing third-party vendor list quality using SQL, PySpark, and Tableau
-- Reduced A/B testing setup time for marketing campaigns by 50% by co-designing an internal ticket workflow with modeling teams and creating a Custom GPT to automate experiment configuration and standardize campaign performance reporting
-- Reduced outlier detection and investigation time by 30% by developing an automated Tableau dashboard with statistical control charts to monitor key performance metrics, incorporating dynamic date and granularity level filtering
-- Boosted LLM-driven visibility by 10% (~$50K daily volume) by performing ETL on Google Analytics data into Databricks to analyze web traffic and user behavior, predict HALO applications from marketing channels, and optimize GEO strategy
-- Optimized email campaigns and sweepstakes through suppression logic, opt-out compliance, A/B testing, and automated Tableau dashboards for performance tracking, and delivered bi-weekly report presentations to manager and C-level executives
+- •	Increased net conversion rate by ~16%, driving ~$8.2M in loan volume, by refining direct mail list selection and improving ITA and Prescreen targeting through third-party vendor list quality analysis using SQL, PySpark, and Tableau
+- Reduced A/B testing setup time 50% for marketing campaigns by co-designing an internal ticket workflow with modeling teams and building a Custom GPT to automate experiment configuration and standardize campaign performance reporting
+- Reduced outlier detection and investigation time by 30% by building an automated and interactive Tableau dashboard with statistical control charts to monitor key KPIs, incorporating dynamic date and granularity level filtering
+- Queried and transformed 200K+ Google Analytics web sessions using SQL (CTEs, window functions, aggregations) to perform funnel analysis, user behavioral segmentation, and forecast HALO applications across marketing channels, driving a 10% lift in generative AI search (GEO) visibility (~$50K daily loan volume)
+-	Optimized email campaigns and sweepstakes through suppression logic, opt-out compliance, A/B testing, and automated Tableau dashboards for performance tracking; delivered bi-weekly report presentations to manager and C-suite executives
 
 **Machine Learning Research Assistant @ Simmons University**  
 *July – September 2025*  
