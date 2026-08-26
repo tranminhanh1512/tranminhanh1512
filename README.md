@@ -30,11 +30,12 @@ Dual Minor in Computer Science and Business
 
 **Marketing Data Mining and Reporitng Analytics Co-op @ College Ave Student Loans LLC**  
 *September 2025 – March 2026*  
-- •	Increased net conversion rate by ~16%, driving ~$8.2M in loan volume, by refining direct mail list selection and improving ITA and Prescreen targeting through third-party vendor list quality analysis using SQL, PySpark, and Tableau
-- Reduced A/B testing setup time 50% for marketing campaigns by co-designing an internal ticket workflow with modeling teams and building a Custom GPT to automate experiment configuration and standardize campaign performance reporting
-- Reduced outlier detection and investigation time by 30% by building an automated and interactive Tableau dashboard with statistical control charts to monitor key KPIs, incorporating dynamic date and granularity level filtering
-- Queried and transformed 200K+ Google Analytics web sessions using SQL (CTEs, window functions, aggregations) to perform funnel analysis, user behavioral segmentation, and forecast HALO applications across marketing channels, driving a 10% lift in generative AI search (GEO) visibility (~$50K daily loan volume)
--	Optimized email campaigns and sweepstakes through suppression logic, opt-out compliance, A/B testing, and automated Tableau dashboards for performance tracking; delivered bi-weekly report presentations to manager and C-suite executives
+-	Increased net conversion rate by ~16%, driving ~$8.2M in loan volume, by refining direct mail list selection and improving ITA and Prescreen targeting through third-party vendor list quality analysis using SQL, PySpark, and Tableau
+-	Reduced A/B testing setup time by 50% for marketing campaigns by co-designing an internal ticket workflow with modeling teams and building a Custom GPT to automate experiment configuration and standardize campaign performance reporting
+-	Reduced outlier detection and investigation time by 30% by building an automated, interactive Tableau dashboard with statistical control charts to monitor key KPIs
+-	Queried and transformed 200K+ Google Analytics web sessions using SQL (CTEs, window functions, aggregations) for funnel analysis and behavioral segmentation, driving a 10% lift in generative AI search (GEO) visibility (~$50K daily loan volume)
+-	Analyzed and interpreted 80M+ customer records to optimize email and sweepstakes campaigns through suppression logic, opt-out compliance, A/B testing, and performance tracking dashboards, partnering with internal teams to ensure accurate campaign tracking and tagging
+-	Built and presented biweekly analytical reports and strategic recommendations to marketing leadership, supporting performance reviews and data-driven decision-making
 
 **Machine Learning Research Assistant @ Simmons University**  
 *July – September 2025*  
@@ -45,10 +46,11 @@ Dual Minor in Computer Science and Business
 **Marketing Data Analyst Intern @ 1C Vietnam**  
 *June – August 2023*
 
-- Reduced customer data collection time and streamlined sales workflow by 20% by conducting end-to-end data acquisition, cleaning, transformation, analysis and performing customer segmentation on 10,000+ potential customers using Excel
-- Boosted social media engagement by 25% through collaboration with the social media team by executing paid TikTok and Facebook ad campaigns, developing strategic content creation, and refining brand positioning and messaging
-- Performed data-driven market research and competitive analysis on 20+ companies to uncover audience behavior, segmentation patterns, and inform marketing channel strategies using Excel, Google Analytics, and Meta Ads
-- Coordinated cross-functionally to launch 5+ events and ingest 1,000+ survey responses, applying transformer-based models to analyze sentiment and surface customer insights, supporting customer retention and revenue growthnt data hygiene across departments
+- Reduced customer data collection time by 20%, streamlined sales workflow and supported personalized marketing strategies by conducting end-to-end data acquisition, cleaning, transformation, analysis and segmentation on 10,000+ potential customers 
+-	Performed data-driven market research and competitive analysis on 20+ companies to uncover audience behavior, segmentation patterns, and inform marketing channel strategies using Excel, Google Analytics, and Meta Ads
+-	Boosted social media engagement by 25% through collaboration with the social media team by executing paid TikTok and Meta ad campaigns, developing strategic content creation, and refining brand positioning and messaging
+-	Coordinated cross-functionally to plan and execute 5+ events, managing logistics, attendee tracking, and post-event follow-up; collected and analyzed 1,000+ post-event survey responses with a 42% response rate to monitor client and team feedback
+-	Conducted post-event analysis to evaluate engagement impact, identify process improvement, and inform event strategy, driving a 20-point increase in attendee turnout (50% to 70%) through improved customer targeting and event timing
 
 **Sales Intern @ National Citizen Bank**  
  *June – August 2022*
